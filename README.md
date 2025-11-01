@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzharProCoder-web
 - 👀 I’m interested in to make a user friendly interface
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact:  When I'm not crafting complex UI/UX designs and coding magic, you can find me exploring the intricacies of C++ just for fun! 🌟
